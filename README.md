@@ -5,7 +5,7 @@
 **Duration:** July to September 2024
  
 
-## Overvie of the Project
+## Overview of the Project
 
 ### Project: Exploratory Data Analysis (EDA) on Used Cars Dataset
 

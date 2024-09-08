@@ -1,7 +1,11 @@
 **Name:** SUFIA
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT12DS1790
+
 **Domain:** Data Analytics
+
 **Duration:** July to September 2024
  
 

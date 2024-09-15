@@ -11,6 +11,8 @@
 
 ## Overview of the Project
 ### Project: Exploratory Data Analysis (EDA) on Used Cars Dataset
+![image](https://github.com/user-attachments/assets/22470ecb-d24e-439d-aec0-c2397a5dd8be)
+
 Introduction
 In this analysis, we explored a dataset containing information about used cars. Our goal was to understand the dataset's characteristics, distributions, correlations, and outliers. To achieve this, we utilized libraries such as pandas, numpy, matplotlib, and seaborn to perform various exploratory data analysis (EDA) tasks.
 
